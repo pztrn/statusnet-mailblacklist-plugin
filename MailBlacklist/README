@@ -1,0 +1,7 @@
+StatusNet Mail Blacklist plugin
+=================================
+Adds an ability to block mail domains.
+
+Changelog
+=========
+0.1 initial release
